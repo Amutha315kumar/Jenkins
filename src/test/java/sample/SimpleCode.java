@@ -6,7 +6,6 @@ public class SimpleCode {
 
 	public static void main(String[] args) throws InterruptedException {
 
-		System.out.println("Sample Code");
 		
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com");
